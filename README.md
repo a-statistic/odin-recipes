@@ -1,0 +1,1 @@
+This is the project for HTML Basics in The Odin Project's Foundations course
